@@ -1,7 +1,7 @@
-<div align="center">
+ <div align="center">
   <img align="center" width="110px" height="110px" src="https://i.imgur.com/jLULssx.png" />
   <br />
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React;TypeScript;Node;Express;MongoDB;MySQL;PostgreSQL)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2388C0D0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+based+in+Brazil;I+develop+in%3A;TypeScript;React;NextJS;MongoDB;GraphQL;MySQL;PostgreSQL;Ruby+on+Rails" />
 </div>
 <div align="center">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
