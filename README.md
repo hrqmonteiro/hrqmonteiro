@@ -1,32 +1,5 @@
  <div align="center">
-  <img align="center" width="110px" height="110px" src="https://i.imgur.com/jLULssx.png" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+stack&showBorder=false&lineCount=4&theme=nord&bg=%232a313e&badge=%23343C4D&border=%23343C4D&titleColor=%2382a2c2&line1=typescript%2Ctypescript%2C00b3ff%3Breact%2Creact%2C00f6ff%3Bnext.js%2Cnext.js%2Cffffff%3Bnode.js%2Cnode.js%2C00bd12%3B&line2=express%2Cexpress%2Cffffff%3Bmongodb%2Cmongodb%2C00ff2c%3Bpostgresql%2Cpostgresql%2Ce57cff%3Btrpc%2Ctrpc%2C00c6ff%3B&line3=amazonaws%2Camazonaws%2Cffffff%3Bprisma%2Cprisma%2Cffffff%3Btailwindcss%2Ctailwindcss%2C00d0ff%3B&line4=vercel%2Cvercel%2Cffffff%3Bgithub%2Cgithub%2Cffffff%3Bgitlab%2Cgitlab%2Cff8500%3Bdocker%2Cdocker%2C00c6ff%3B" alt="Tech stack" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2388C0D0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+based+in+Brazil;I+develop+in%3A;TypeScript;React;NextJS;MongoDB;GraphQL;MySQL;PostgreSQL;Ruby+on+Rails" />
-</div>
-<div align="center">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-  <img align="center" alt="Ruby on Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-</div>
-
-<br />
-
-<div align="center">
-  <a href="http://gitlab.com/hrqmonteiro" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"       alt="GitLab" /></a>
-  <a href="http://instagram.com/hrqmonteiro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="http://linkedin.com/in/hrqmonteiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="http://wa.me/5517992811222" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrqmonteiro&theme=tokyonight" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrqmonteiro&layout=compact&theme=tokyonight" />
+  <img src="https://test-git-main-hrqmonteiro.vercel.app/api?username=hrqmonteiro&show_icons=true&hide_border=true&bg_color=2E3440&title_color=81A1C1&text_color=ECEFF4&icon_color=8FBCBB&card_width=495px" />
  </div>
